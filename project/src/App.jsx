@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './Login';
-import Signup from './SignUp';
+
 import Dashboard from './Dashboard';
 import ProjectList from './ProjectList';
 import TaskList from './TaskList';
@@ -21,7 +21,7 @@ const App = () => {
       <Routes>
         {/* Public Routes */}
         <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<Signup />} />
+      
 
         {/* Protected Routes */}
         <Route
