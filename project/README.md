@@ -10,3 +10,19 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+https://incture-project-9t2x.vercel.app/
+
+username:admin password admin
+username:manager password:manager
+username:employee password employee
+
+
+libraries installation: npm install react react-dom react-router-dom react-redux @reduxjs/toolkit react-hook-form yup @hookform/resolvers axios react-icons framer-motion react-toastify recharts @hello-pangea/dnd
+
+
+GitHub link:
+https://github.com/abhinishetty/Incture_Project.git
+
